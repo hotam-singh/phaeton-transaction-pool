@@ -5,7 +5,7 @@ Transaction pool library for use with Phaeton-related software
 ## Installation
 
 ```sh
-$ npm install --save @phaetonhq/phaeton-transaction-pool
+$ npm install --save phaeton-transaction-pool
 ```
 
 ## License
